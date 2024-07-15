@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover tools to harmonize your professional and personal life, transforming how you work and live.",
+        "title": "Elevate Your Work-Life Balance"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover tools to harmonize your professional and personal life, transforming how you work and live.",
+        "title": "Elevate Your Work-Life Balance"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover tools to harmonize your professional and personal life, transforming how you work and live.",
+        "title": "Elevate Your Work-Life Balance"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover tools to harmonize your professional and personal life, transforming how you work and live.",
+        "title": "Elevate Your Work-Life Balance"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover tools to harmonize your professional and personal life, transforming how you work and live.",
+        "title": "Elevate Your Work-Life Balance"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover tools to harmonize your professional and personal life, transforming how you work and live.",
+        "title": "Elevate Your Work-Life Balance"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover tools to harmonize your professional and personal life, transforming how you work and live.",
+        "title": "Elevate Your Work-Life Balance"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover tools to harmonize your professional and personal life, transforming how you work and live.",
+        "title": "Elevate Your Work-Life Balance"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Work-Life Balance",
+  "subtitle": "Discover tools to harmonize your professional and personal life, transforming how you work and live."
+}
